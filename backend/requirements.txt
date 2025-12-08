@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlmodel
+google-generativeai
+face_recognition
+numpy
+opencv-python-headless
+pillow
+python-dotenv
+transformers
+torch

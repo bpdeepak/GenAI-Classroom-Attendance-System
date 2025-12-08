@@ -1,0 +1,66 @@
+# Reference List for Literature Survey
+
+This document contains the 20 academic references prepared for the Gen-AI Classroom Attendance System academic report. References [1] through [4] are the main papers discussed in detail in the Literature Survey section. References [5] through [20] are supporting citations used throughout the limitations and research gaps sections.
+
+## IEEE Format References
+
+[1] P. T. Chinimilli, A. Anjum, S. A. Kolan, S. Khandelwal, V. Ravi, and S. Jain, "Face recognition based attendance system using Haar Cascade and Local Binary Pattern Histogram Algorithm," in Proc. 4th Int. Conf. Trends Electron. Inform. (ICOEI), Tirunelveli, India, 2020, pp. 701-704, doi: 10.1109/ICOEI48184.2020.9142909.
+
+[2] F. Schroff, D. Kalenichenko, and J. Philbin, "FaceNet: A unified embedding for face recognition and clustering," in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), Boston, MA, USA, 2015, pp. 815-823, doi: 10.1109/CVPR.2015.7298682.
+
+[3] J. Li, D. Li, C. Xiong, and S. Hoi, "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation," in Proc. 39th Int. Conf. Mach. Learn. (ICML), Baltimore, MD, USA, 2022, pp. 12888-12900.
+
+[4] D. Narayanappa and R. G. Prabhu, "Automated Attendance Management System Using Face Recognition: A Survey," in Proc. Int. Conf. Adv. Comput. Commun. Inform. (ICACCI), Bangalore, India, 2019, pp. 1923-1928, doi: 10.1109/ICACCI.2019.8822156.
+
+[5] M. Turk and A. Pentland, "Eigenfaces for recognition," J. Cogn. Neurosci., vol. 3, no. 1, pp. 71-86, 1991, doi: 10.1162/jocn.1991.3.1.71.
+
+[6] T. Ahonen, A. Hadid, and M. Pietikainen, "Face description with local binary patterns: Application to face recognition," IEEE Trans. Pattern Anal. Mach. Intell., vol. 28, no. 12, pp. 2037-2041, Dec. 2006, doi: 10.1109/TPAMI.2006.244.
+
+[7] Y. Taigman, M. Yang, M. Ranzato, and L. Wolf, "DeepFace: Closing the gap to human-level performance in face verification," in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., Columbus, OH, USA, 2014, pp. 1701-1708, doi: 10.1109/CVPR.2014.220.
+
+[8] S. Sawhney, K. Kacker, S. Jain, S. N. Singh, and R. Garg, "Real-time smart attendance system using face recognition techniques," in Proc. 9th Int. Conf. Cloud Comput. Data Sci. Eng. (Confluence), Noida, India, 2019, pp. 522-525, doi: 10.1109/CONFLUENCE.2019.8776934.
+
+[9] K. T. Shirahatti and A. Bhat, "Automated attendance management system using face recognition," Int. J. Eng. Res. Technol. (IJERT), vol. 8, no. 5, pp. 629-632, 2019.
+
+[10] B. Bhatt, D. Sharma, C. Singh, M. Kumar, and A. Dhawan, "Student attendance management system based on face recognition in classroom," in Proc. Int. Conf. Intell. Comput. Control Syst. (ICICCS), Madurai, India, 2018, pp. 1541-1545, doi: 10.1109/ICCONS.2018.8663224.
+
+[11] M. Arsenovic, S. Sladojevic, A. Anderla, and D. Stefanovic, "FaceTime - Deep learning based face recognition attendance system," in Proc. IEEE 15th Int. Symp. Intell. Syst. Inform. (SISY), Subotica, Serbia, 2017, pp. 53-58, doi: 10.1109/SISY.2017.8080587.
+
+[12] A. Radford, J. W. Kim, C. Hallacy, et al., "Learning transferable visual models from natural language supervision," in Proc. 38th Int. Conf. Mach. Learn. (ICML), Virtual, 2021, pp. 8748-8763.
+
+[13] N. R. Varadarajan and S. Ragupathy, "Automated attendance management system using face recognition through video surveillance," Int. J. Innov. Technol. Exploring Eng. (IJITEE), vol. 8, no. 9, pp. 2278-3075, July 2019.
+
+[14] V. Shehu and A. Dika, "Using real time computer vision algorithms in automatic attendance management systems," in Proc. 32nd Int. Conf. Inf. Technol. Interfaces, Cavtat, Croatia, 2010, pp. 397-402, doi: 10.1109/ITI.2010.5546449.
+
+[15] J. Cho, J. Lei, H. Tan, and M. Bansal, "Unifying vision-and-language tasks via text generation," in Proc. 38th Int. Conf. Mach. Learn. (ICML), Virtual, 2021, pp. 1931-1942.
+
+[16] K. He, X. Zhang, S. Ren, and J. Sun, "Deep residual learning for image recognition," in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), Las Vegas, NV, USA, 2016, pp. 770-778, doi: 10.1109/CVPR.2016.90.
+
+[17] O. M. Parkhi, A. Vedaldi, and A. Zisserman, "Deep face recognition," in Proc. Brit. Mach. Vis. Conf. (BMVC), Swansea, UK, 2015, pp. 41.1-41.12, doi: 10.5244/C.29.41.
+
+[18] S. Yang, P. Luo, C. C. Loy, and X. Tang, "WIDER FACE: A face detection benchmark," in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), Las Vegas, NV, USA, 2016, pp. 5525-5533, doi: 10.1109/CVPR.2016.596.
+
+[19] J. Deng, J. Guo, N. Xue, and S. Zafeiriou, "ArcFace: Additive angular margin loss for deep face recognition," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), Long Beach, CA, USA, 2019, pp. 4690-4699, doi: 10.1109/CVPR.2019.00482.
+
+[20] G. B. Huang, M. Ramesh, T. Berg, and E. Learned-Miller, "Labeled Faces in the Wild: A database for studying face recognition in unconstrained environments," University of Massachusetts, Amherst, Tech. Rep. 07-49, Oct. 2007.
+
+---
+
+## Notes on Reference Selection
+
+**Main Papers [1-4]:** These are discussed comprehensively in the literature review body text, covering face recognition for attendance, deep learning embeddings (FaceNet), vision-language models (BLIP), and survey of existing systems.
+
+**Supporting References [5-20]:** These support specific claims throughout the limitations and research gaps sections:
+- [5-6]: Traditional methods (Eigenfaces, LBP)
+- [7]: DeepFace model
+- [8-11]: Various attendance system implementations
+- [12]: CLIP model
+- [13-14]: Automated attendance systems
+- [15]: Vision-language unification
+- [16]: ResNet architecture
+- [17]: Deep face recognition
+- [18]: WIDER FACE dataset
+- [19]: ArcFace loss function
+- [20]: LFW benchmark dataset
+
+All references follow IEEE citation format as commonly used in computer science and engineering publications.
