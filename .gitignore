@@ -107,3 +107,6 @@ Desktop.ini
 # Report artifacts (optional - uncomment if generated files shouldn't be tracked)
 # report.txt
 # references.txt
+
+#images
+/images

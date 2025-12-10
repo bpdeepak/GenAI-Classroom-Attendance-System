@@ -139,10 +139,12 @@ Check the **Sessions** page for:
 
 ## 📊 Performance Metrics
 
-- **Accuracy**: 100% on test dataset (4 students, 2 classroom images)
-- **Latency**: 3.5s mean end-to-end processing time
-- **Memory**: 1.5 GB peak consumption
-- **Throughput**: 17 images/minute
+- **Accuracy**: 90.69% (LFW Dataset, 57 classes, 2718 images)
+- **Precision**: 98.60% (Weighted)
+- **Recall**: 90.69% (Weighted)
+- **F1 Score**: 94.21%
+- **Latency**: 0.064s (per face on LFW images), 2.37s (full classroom scene)
+- **Throughput**: ~25 images/minute
 - **Scalability**: Linear O(n) - supports 500-700 students efficiently
 
 ## 🔬 AI Models
