@@ -108,5 +108,5 @@ Desktop.ini
 # report.txt
 # references.txt
 
-#images
-/images
+# Personal images folder
+images/
